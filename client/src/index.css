@@ -1,0 +1,355 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+h1{
+  color: #000000;
+}
+
+p{
+color: #000000;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+a:hover {
+  text-decoration: none;
+  color: rgb(0, 17, 255);
+}
+
+
+/* HOME PAGE */
+
+.homesectionone {
+  position: absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #111;
+  transition: 0.5s;
+  z-index: 2; 
+}
+
+.homesectionone video{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+}
+
+
+.homepagescreen{
+  background: rgb(255, 255, 255, 0.7);
+  padding: 30px;
+  border-radius: 40px;
+  position: relative;
+  z-index: 10;
+
+}
+
+.homepagescreen img{
+  float:right;
+}
+
+/* HOME PAGE */
+
+/*======================================================================================================================================*/
+
+/* TECHNICAL MANUALS */
+
+.tmpagescreen{
+  background: rgb(255, 255, 255, 0.7);
+  padding: 30px;
+  border-radius: 40px;
+  position: relative;
+  z-index: 10;
+
+}
+
+.tmsectionone {
+  position:absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background: #111;
+  transition: 0.5s;
+  z-index: 2; 
+}
+
+.tmpagescreen img{
+  float:right;
+}
+
+
+.test img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+}
+
+#tmtext{
+color: rgb(0, 0, 0);
+font-weight: bold;
+font-size: 30px;
+}
+/* TECHNICAL MANUALS */
+
+/*======================================================================================================================================*/
+
+/* NAVBAR */
+
+#testtext {
+  color: white;
+  font-weight: bold;
+}
+
+/* NAVBAR */
+
+/*======================================================================================================================================*/
+
+/* LOGIN */
+
+.loginsectionone {
+  position: absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+  transition: 0.5s;
+  z-index: 2; 
+}
+
+.loginpagescreen label{
+  margin-left: 1%;
+  align-items: center;
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
+
+.loginpagescreen{
+  background: rgb(255, 255, 255, 0.7);
+  padding: 30px;
+  border-radius: 40px;
+  position: relative;
+  z-index: 10;
+}
+
+ 
+#loginStatus {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 25px;
+}
+
+
+/* LOGIN */
+
+/*======================================================================================================================================*/
+
+/* ADMIN LOGIN */
+
+.adminloginsectionone {
+  position: absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+  transition: 0.5s;
+  z-index: 2; 
+}
+
+.adminloginpagescreen{
+  background: rgb(255, 255, 255, 0.7);
+  padding: 30px;
+  border-radius: 40px;
+  z-index: 10;
+
+}
+
+.adminloginpagescreen label{
+  margin-left: 1%;
+  align-items: center;
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
+
+.btn-group button {
+  text-align: center;
+  background-color: #ffffff; /* Green background */
+  border: 1px solid rgb(0, 0, 0); /* Green border */
+  color: rgb(0, 0, 0); /* White text */
+  padding: 10px 24px; /* Some padding */
+  border-radius:0.25em;
+  cursor: pointer; /* Pointer/hand icon */
+  display: inline-block; /* Make the buttons appear below each other */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #99a099;
+}
+
+/* ADMIN LOGIN */
+
+/*======================================================================================================================================*/
+
+/* ACCOUNT REQUEST FORM */
+.accountrequest select{
+height: 31.5px;
+}
+
+.accountrequest {
+  border-radius: 10px;
+  background: rgba(228, 228, 228, 0.7);
+  padding: 40px;
+  font-weight: bold;
+  height: 500px;
+  opacity: 0.9999;
+}
+
+.accountrequestsection {
+  position:absolute;
+  right: 0;
+  width: 100%;
+  min-height: 100vh;
+  padding: 100px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background: #111;
+  transition: 0.5s;
+  z-index: 2; 
+}
+
+/*======================================================================================================================================*/
+
+/* TABLE */
+
+.tablescreen{
+  width:fit-content;
+  background: rgb(255, 255, 255, 0.7);
+  padding: 30px;
+  border-radius: 40px;
+  position: relative;
+  z-index: 10;
+}
+.tablescreen label{
+  margin-left: 25%;
+  align-items: center;
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
+
+table {
+  background: rgba(255, 255, 255, 0.75);
+  border: 2px solid rgb(0, 0, 0);
+  width: 1000px;
+  height: 200px;
+}
+  
+th {
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+  
+td {
+  text-align: center;
+  font-weight: bold;
+}
+
+.centeredButton{
+  margin: 0;
+  position: absolute;
+  top: 95.5%;
+  right: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.centeredButton1{
+  margin: 0;
+  position: absolute;
+  top: 93%;
+  right: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.tableDropDownBox{
+  margin: 0;
+  position: absolute;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+
+.updateNumberInput{
+  width:50px;
+}
+
+.updatePlatoonInput{
+  width:50px;
+}
+
+.updateInput{
+  font-size: smaller;
+}
+
+.updateStatusInput{
+  width:125px;
+}
+
+.SubmitHumvee{
+  margin: 0;
+  position: absolute;
+
+  right: 45%;
+}
+
+.updateNodsInput{
+  font-size:80%
+}
+
+
+/* TABLE */
+
+/*======================================================================================================================================*/
