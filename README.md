@@ -11,7 +11,7 @@ Worksheet" faster than compared to if they had to pull all the information off t
 
 Ideas I had for the website but was not able to implement because of time constraints and other 
 class loads include but are not limited to. <br>
-______________________________________________________________________________
+___________________________________________________________________________
 • A scanned DD (2404) that soldiers could fill out and print from the website. <br>
 • Item linkage and update history for all users. <br>
 • Automated email system. <br>
