@@ -9,8 +9,8 @@ was linked to a local SQL database that would store pertinent information to eac
 soldiers would then be able to use that data to fill out a DD(2404)"Equipment Inspection and Maintenance
 Worksheet" faster than compared to if they had to pull all the information off the item itself. 
 
-Ideas I had for the website but was not able to implement because time constraints and other class loads
-include but are not limited to.
+Ideas I had for the website but was not able to implement because of time constraints and other 
+class loads include but are not limited to.
 • A scanned DD (2404) that soldiers could fill out and print from the website.
 • Item linkage and update history for all users.
 • Automated email system.
