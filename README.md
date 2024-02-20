@@ -3,7 +3,7 @@
 ## COMP-296 (Advanced Software Project)
 
 PMCS Pro was a website I built using react js. The goal of the website was to expidite the process
-of performing a PMCS or (Preventative Maintenance Checks and Services) that the Military requires
+of performing a PMCS or (Preventative Maintenance Checks and Services) inspection that the Military requires
 soldiers to perform on vehicles / heavy machinery on either a weekly or monthly basis. The website
 was linked to a local SQL database that would store pertinent information to each PMCSable item,
 soldiers would then be able to use that data to fill out a DD(2404)"Equipment Inspection and Maintenance
