@@ -9,6 +9,7 @@ was linked to a local SQL database that would store pertinent information to eac
 soldiers would then be able to use that data to fill out a DD(2404)"Equipment Inspection and Maintenance
 Worksheet" faster than compared to if they had to pull all the information off the item itself. <br>
 <br>
+#
 **Big thanks to user techmoro's  for his "React Multi Page Website" code, which I used as a template** <br>
 [techmoro's React Multi Page Website](https://github.com/techomoro/ReactMultiPageWebsite) <br>
 
