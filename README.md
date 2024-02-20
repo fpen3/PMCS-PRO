@@ -10,7 +10,7 @@ soldiers would then be able to use that data to fill out a DD(2404)"Equipment In
 Worksheet" faster than compared to if they had to pull all the information off the item itself. <br>
 <br>
 **Big thanks to user techmoro's  for his "React Multi Page Website" code, which I used as a template** <br>
-[techmoro's React Multi Page Website](https://pages.github.com/) <br>
+[techmoro's React Multi Page Website]([https://pages.github.com/](https://github.com/techomoro/ReactMultiPageWebsite)) <br>
 
 Ideas I had for the website but was not able to implement because of time constraints and other 
 class loads include but are not limited to. <br>
