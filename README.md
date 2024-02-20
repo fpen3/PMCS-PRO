@@ -7,9 +7,9 @@ of performing a PMCS or (Preventative Maintenance Checks and Services) that the 
 soldiers to perform on vehicles / heavy machinery on either a weekly or monthly basis. The website
 was linked to a local SQL database that would store pertinent information to each PMCSable item,
 soldiers would then be able to use that data to fill out a DD(2404)"Equipment Inspection and Maintenance
-Worksheet" faster than compared to if they had to pull all the information off the item itself. 
+Worksheet" faster than compared to if they had to pull all the information off the item itself. <br>
 **Big thanks to user techmoro's  for his "React Multi Page Website" code, which I used as a template** <br>
-[techmoro's React Multi Page Website]([https://pages.github.com/])<br>
+[techmoro's React Multi Page Website](https://pages.github.com/) <br>
 
 Ideas I had for the website but was not able to implement because of time constraints and other 
 class loads include but are not limited to. <br>
