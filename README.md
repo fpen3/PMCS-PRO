@@ -13,7 +13,7 @@ Ideas I had for the website but was not able to implement because of time constr
 class loads include but are not limited to. <br>
 <br>
 • A scanned DD (2404) that soldiers could fill out and print from the website. <br>
-• Printable documents.
+• Printable documents.<br>
 • Item linkage and update history for all users. <br>
 • Automated email system. <br>
 • Image storage. <br>
