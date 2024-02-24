@@ -1,6 +1,6 @@
 # PMCS PRO
 
-## COMP-296 (Advanced Software Project)
+## COMP-296 (Advanced Software Project) [Brookdale Community College]
 
 PMCS Pro was a website I built using react js. The goal of the website was to expidite the process
 of performing a PMCS or (Preventative Maintenance Checks and Services) inspection that the military requires
